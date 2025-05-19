@@ -1,0 +1,18 @@
+name: survival_tests
+channels:
+  - anaconda
+  - sebp
+dependencies:
+  - Cython
+  - pandas=0.25.3
+  - scikit-survival=0.11
+  - matplotlib=3.1.1
+  - seaborn=0.9.0
+  - tqdm=4.42.1
+  - pytest
+  - pip:
+    - coverage
+    - git+https://github.com/mlindauer/ASlibScenario.git
+    - geneticalgorithm2==6.5.1
+    - py-experimenter
+    - oppoppopinit=1.2.0
