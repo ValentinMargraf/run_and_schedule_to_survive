@@ -1,0 +1,17 @@
+torch==1.13.1
+gpytorch==1.8.1
+botorch==0.6.6
+ax-platform==0.2.6
+numpy==1.21.6
+mysql==0.0.3
+mysql-connector==2.2.9
+scipy==1.7.3
+pandas==1.3.5
+matplotlib==3.5.3
+tqdm==4.67.1
+liac-arff==2.5.0
+plotly==5.18.0
+PyYAML==5.1.2
+scikit-survival==0.17.2
+OppOpPopInit==2.0.1
+geneticalgorithm2==6.9.2
